@@ -6,4 +6,4 @@ Optimized Inventory Management by identifying the specific items that should be 
 Decision-making by analyzing the correlation of items to account type of the members;
 Analyzing and ranking of warehouses with accuracy based on the sales of items in terms of quantity and gross sales amount leading to realistic fact-based business decision-making.
 
-Refer to the tableau twbx file to navigate.
+Refer to the tableau twb file to navigate.
